@@ -86,8 +86,8 @@ img {
 }
 
 .btn-one:hover {
-  color: yellow;
-  background-color: black;
+  box-shadow: 0px 0px 150px 25px cyan;
+  background-color: cyan;
 
 }
 
@@ -103,8 +103,8 @@ img {
 }
 
 .btn-two:hover {
-  color: yellow;
-  background-color: black;
+  box-shadow: 0px 0px 150px 25px rgb(255, 255, 255);
+  background-color: white;
 
 }
 
